@@ -1,7 +1,13 @@
 {
-  "name": "react-app",
+  "name": "nice-breakers",
   "version": "0.1.0",
   "private": true,
+  "contributers": [
+    "Aaron Lieberman <email> (site)",
+    "Jacob Nguyen <email> (site)",
+    "Sam Sandoval <email> (site)",
+    "Ethan Davidson <ethan.r.davidson@gmail.com> (ethandavidson.com)"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
